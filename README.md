@@ -3,8 +3,8 @@
 C Programming
 -------------------
 
-Compilation steps of a C program
-Volatile keyword
+Compilation steps of a C program <br />
+Volatile keyword<br />
 extern
 register
 static
