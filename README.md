@@ -29,3 +29,19 @@ File operations<br />
 Pointer arithmatic<br />
 Array of structures<br />
 Static & shared Libraries<br />
+
+
+Linux Kernel
+-------------
+Process<br />
+System Call<br />
+Kernel Synchronization<br />
+Interrupt<br />
+Drivers Basics<br />
+Character Driver<br />
+USB Driver<br />
+Display Drivers<br />
+I2C SPI<br />
+GDB KGDB <br />
+Memory Management<br />
+Kernel Debugging using kprobe jprobe<br />
