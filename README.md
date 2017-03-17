@@ -26,6 +26,7 @@ File operations<br />
 Pointer arithmatic<br />
 Array of structures<br />
 Static & shared Libraries<br />
+Inline functions <br />
 
 
 
